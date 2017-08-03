@@ -7,7 +7,7 @@ https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
 
 Im trying to use NN to predict the world sales number of video games.
 
-After train the model acc is like:
+After train the model the regression plot is like:
 
 Model predict the training data
 
