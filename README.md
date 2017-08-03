@@ -13,7 +13,7 @@ Model predict the training data
 
 ![image](https://github.com/johnny7861532/Keras-Video-Games-Sales-number-predict/blob/master/video%20game%20train%20data%20predict.png)
 
-Modle predict the testing data
+Model predict the testing data
 
 ![image](https://github.com/johnny7861532/Keras-Video-Games-Sales-number-predict/blob/master/video%20games%20test%20predict.png)
 
