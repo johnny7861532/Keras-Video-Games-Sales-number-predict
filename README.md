@@ -1,5 +1,8 @@
-# Keras-Video-Games-Sales-number-predict
-using the video games data from kaggle to  see if DL can preidct the  sales number
+# Is that possible for us to predict the possible sales number of Video games?
+
+## Yes we can! ##
+
+By using the video games data from kaggle to  see if DL can preidct the  sales number
 
 Data from:
 
