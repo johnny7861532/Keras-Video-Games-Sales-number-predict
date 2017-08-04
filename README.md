@@ -18,4 +18,8 @@ Model predict the testing data
 ![image](https://github.com/johnny7861532/Keras-Video-Games-Sales-number-predict/blob/master/video%20games%20test%20predict.png)
 
 According to these two pictures we can see our model predict poorly when the sales number is over 20.
+And when the sales over 15 our model start to get the lower acc of predict numbers.
+It might becasue the imbalance data thata the sales number over 15 are only 10, ratio is only 0.001257.
+
+
 
