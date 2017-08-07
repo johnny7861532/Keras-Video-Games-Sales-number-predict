@@ -22,7 +22,8 @@ Model predict the testing data
 
 According to these two pictures we can see our model predict poorly when the sales number is over 20.
 And when the sales over 15 our model start to get the lower acc of predict numbers.
-It might becasue the imbalance data that the sales number over 15 are only 10, ratio is only 0.001257.
-
+It might becasue the imbalance data that the sales number over 15 are only 10, ratio is about 0.001257.
+It shows this data a extremly imbalance, I have using sklearn weight_class library to balance the weight,
+might also using other method.
 
 
