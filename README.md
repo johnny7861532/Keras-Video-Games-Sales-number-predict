@@ -12,11 +12,11 @@ Im trying to use NN to predict the world sales number of video games.
 
 After train the model the regression plot is like:
 
-Model predict the training data
+**Model predict the training data**
 
 ![image](https://github.com/johnny7861532/Keras-Video-Games-Sales-number-predict/blob/master/video%20game%20train%20data%20predict.png)
 
-Model predict the testing data
+**Model predict the testing data**
 
 ![image](https://github.com/johnny7861532/Keras-Video-Games-Sales-number-predict/blob/master/video%20games%20test%20predict.png)
 
